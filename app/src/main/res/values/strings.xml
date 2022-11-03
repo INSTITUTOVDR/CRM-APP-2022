@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TPALGARRA</string>
+    <string name="cancel">cancelar</string>
+    <!-- Permission -->
+    <!-- General -->
+    <string name="requested_permission_missing_title">Necesitamos permiso a tu galería</string>
+    <!-- Read and write -->
+    <string name="requested_permission_external_store">Para poder usar tu imagen necesitamos acceder a tu galería. Para ello debes presionar que aceptas darnos los permisos.</string>
+    <!-- No permission -->
+    <string name="access_denied">Acceso denegado</string>
+    <!-- Read and Write -->
+    <string name="access_read_denied">No podemos acceder a tu galería ya que no tenemos el permiso requerido para ello!</string>
+
+    <!-- Read and Write -->
+    <string name="requested_permission_missing_write_title">Necesitamos permiso para acceder a tu almacenamiento</string>
+    <string name="requested_permission_external_store_write">Para poder generar los pdfs, necesitamos acceder a tu almacenamiento interno.</string>
+
+    <!-- Dialog Directory -->
+    <string name="directory_title">Selecciona la fuente</string>
+    <string name="directory_description">Puedes tomar una foto directamente de la cámara o bien puedes selecionarla de tu galeria de imagenes</string>
+    <string name="directory_description_document">Puedes tomar una foto directamente de la cámara o bien seleccionar un PDF desde la galería de archivos</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galeria</string>
+    <string name="selectPdf">PDF</string>
+
+</resources>
